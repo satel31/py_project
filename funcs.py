@@ -3,5 +3,12 @@ def sum_up(num_1: int, num_2: int) -> int:
     result = num_1 + num_2
     return result
 
+def subtract(num_1: int, num_2: int) -> int:
+    """Returns the difference of the numbers"""
+    result = num_1 - num_2
+    return result
+
+
 
 print(sum_up(1, 2))
+print(subtract(2, 1))
