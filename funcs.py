@@ -10,5 +10,4 @@ def subtract(num_1: int, num_2: int) -> int:
 
 
 
-print(sum_up(1, 2))
-print(subtract(2, 1))
+
